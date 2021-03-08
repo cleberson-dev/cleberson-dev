@@ -1,6 +1,5 @@
 ## Olá, mundo! 🌎
-Programo desde 2018, desenvolvendo especialmente para **Web**, com foco no **front end**. 
-Procuro por oportunidades, atualmente. Enquanto não encontro, vou usando esse repositório como meu playground e armazém de ideias, construções e aprendizados.
+Programo desde 2018, desenvolvendo especialmente para **Web**, com foco no **front end**.
 
 
 ## 👨‍💻 Techs
