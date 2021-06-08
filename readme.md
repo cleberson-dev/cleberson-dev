@@ -12,6 +12,7 @@ I'm a 22-year-old brazilian who's been programming since 2018. I build efficient
 	- Formik and React Hook Form
 	- React-Router
 	- Next.js
+- **Angular**
 - **Tailwind**, **Webpack**, **Babel**...
 - **Jest** for unit and functional testing and **Cypress** for E2E tests.
 - **Typescript** for static typing.
