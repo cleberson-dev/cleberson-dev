@@ -2,7 +2,7 @@
 I'm a front-end developer building clear and responsive UIs for users and readable code for developers.
 
 ## 👨‍💻 Skills
-- **HTML5**, **CSS3** and **JavaScript**.
+- 😇 **HTML5**, **CSS3** and **JavaScript**.
 - ⚛️ **React.js** 
 	- Redux
 	- Styled Components
@@ -12,7 +12,7 @@ I'm a front-end developer building clear and responsive UIs for users and readab
 	- Formik and React Hook Form
 	- React-Router
 	- Next.js
-- **Angular**:
+- 🅰️ **Angular**:
 	- Angular Universal
 	- Nebular
 	- rxJs
