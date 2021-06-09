@@ -1,8 +1,8 @@
-## Hello, world! 🌎
-I'm a 22-year-old brazilian who's been programming since 2018. I build efficient, responsive, easy-to-use Web UIs for users and clean, well-written code for developers.
+## Hey, thank you for stopping by! 🙋‍♂️
+I'm a front-end developer building clear and responsive UIs for users and readable code for developers.
 
 ## 👨‍💻 Skills
-- 😇 The Holy Trinity: **HTML5**, **CSS3** and **JavaScript**.
+- **HTML5**, **CSS3** and **JavaScript**.
 - ⚛️ **React.js** 
 	- Redux
 	- Styled Components
@@ -12,14 +12,18 @@ I'm a 22-year-old brazilian who's been programming since 2018. I build efficient
 	- Formik and React Hook Form
 	- React-Router
 	- Next.js
-- **Angular**
-- **Tailwind**, **Webpack**, **Babel**...
-- **Jest** for unit and functional testing and **Cypress** for E2E tests.
-- **Typescript** for static typing.
+- **Angular**:
+	- Angular Universal
+	- Nebular
+	- rxJs
+	- ngRx
+- **Webpack** and **Vite**
+- **Jest** for unit and functional testing and **Cypress** for end-to-end testing.
+- **Typescript** for code safety.
 - **Node.js** for running Javascript code outside the browser (npm, express.js, axios).
-- **Docker** for containerization and **TravisCI** for continuous integration.
-- **PostgreSQL** for data persistence in relational way and **Knex.js** as database query builder.
-- Web API consumption with **REST** and **GraphQL** .
+- **Docker** for application containerization and **TravisCI** as CI/CD pipeline.
+- **PostgreSQL** for relational data persistence with **Knex.js** as a query builder.
+- **REST** and **GraphQL** on Web API consumption.
 -  **Figma** for creating and testing UI designs.
 - Principles such as Agile, Object-Oriented Programming, SOLID, CI/CD, YAGNI, DRY... 
 
