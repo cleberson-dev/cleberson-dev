@@ -17,6 +17,7 @@ I'm a front-end developer building clear and responsive UIs for users and readab
 	- Nebular
 	- rxJs
 	- ngRx
+- **C#/ASP .NET**, with LINQ, Entity Framework, MVC...
 - **Webpack** and **Vite**
 - **Jest** for unit and functional testing and **Cypress** for end-to-end testing.
 - **Typescript** for code safety.
