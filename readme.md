@@ -29,13 +29,13 @@ I'm a front-end developer building clear and responsive UIs for users and readab
 - [👔 LinkedIn](https://www.linkedin.com/in/clebersondev/)
 - [✉️ E-mail](mailto:cleberson.dev@gmail.com)
 - [🐦 Twitter](https://twitter.com/clebersondev)
-- [📷 Instagram](http://instagram.com/cleberson.io)
+- [📷 Instagram](http://instagram.com/cleberson.jr)
 
 
 ## What else?
 - **Great English Reading and Listening**. 🇬🇧 (_Working on Writing and Speaking_)
-- Doing master's degree in **Computer Engineering** (9/10).
-- I love playing acoustic guitar 🎸 and drums 🥁
+- I'm a **Computer Engineering** graduate.
+- I love playing guitar 🎸 and drums 🥁
 
 ![Cleberson's github stats](https://github-readme-stats.vercel.app/api?username=cleberson-dev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
